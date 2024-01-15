@@ -54,3 +54,6 @@ The Bit Bunker Project involves creating a platform for securely backing up file
 3. execut the .exe
 
 4. and finish
+
+
+![App Screenshot](https://github.com/jahaa69/Bit-Bunker-V2/blob/main/image.jpg?raw=true)
